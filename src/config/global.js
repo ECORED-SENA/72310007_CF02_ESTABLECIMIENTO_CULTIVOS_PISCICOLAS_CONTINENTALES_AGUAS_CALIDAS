@@ -317,13 +317,114 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acuicultura',
+      significado:
+        'Producción controlada de organismos acuáticos con fines comerciales o alimenticios.',
+    },
+    {
+      termino: 'Amonio',
+      significado:
+        'Compuesto tóxico generado por desechos orgánicos y metabolismo de los peces.',
+    },
+    {
+      termino: 'Biomasa',
+      significado: 'Peso total de peces presentes en un sistema de cultivo.',
+    },
+    {
+      termino: 'Conversión alimenticia',
+      significado:
+        'Relación entre alimento suministrado y crecimiento obtenido en los peces.',
+    },
+    {
+      termino: 'Desove',
+      significado:
+        'Proceso reproductivo mediante el cual los peces liberan huevos y esperma.',
+    },
+    {
+      termino: 'Eclosión',
+      significado:
+        'Momento en que las larvas salen del huevo después del desarrollo embrionario.',
+    },
+    {
+      termino: 'Fertilización',
+      significado:
+        'Aplicación de nutrientes para estimular producción natural en el estanque.',
+    },
+    {
+      termino: 'Hacinamiento',
+      significado:
+        'Exceso de peces en un espacio reducido que genera estrés y competencia.',
+    },
+    {
+      termino: 'Larvicultura',
+      significado:
+        'Etapa de cultivo enfocada en el manejo y desarrollo de larvas.',
+    },
+    {
+      termino: 'Monitoreo',
+      significado:
+        'Seguimiento periódico de parámetros productivos, sanitarios y ambientales del cultivo.',
+    },
+    {
+      termino: 'Patógeno',
+      significado:
+        'Organismo capaz de causar enfermedades en peces u otros organismos acuáticos.',
+    },
+    {
+      termino: 'Productividad',
+      significado:
+        'Capacidad del sistema de cultivo para generar producción eficiente de peces.',
+    },
+    {
+      termino: 'Ración alimenticia',
+      significado:
+        'Cantidad de alimento suministrada diariamente a los peces según necesidades.',
+    },
+    {
+      termino: 'Sedimento',
+      significado:
+        'Material orgánico e inorgánico acumulado en el fondo del estanque.',
+    },
+    {
+      termino: 'Tasa de crecimiento',
+      significado:
+        'Incremento de peso o tamaño de los peces durante el cultivo.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'AUNAP. (2024). Lineamientos técnicos para la producción acuícola sostenible en Colombia. Autoridad Nacional de Acuicultura y Pesca.',
+      link: '',
+    },
+    {
+      referencia:
+        'AUNAP. (2024). Lineamientos técnicos para la producción acuícola sostenible en Colombia. Autoridad Nacional de Acuicultura y Pesca.',
+      link: '',
+    },
+    {
+      referencia:
+        'FAO. (2024). Nutritional requirements of Nile tilapia (Oreochromis niloticus). Food and Agriculture Organization of the United Nations.',
+      link: '',
+    },
+    {
+      referencia:
+        'FAO. (2024). El estado mundial de la pesca y la acuicultura 2024. Food and Agriculture Organization of the United Nations.',
+      link: '',
+    },
+    {
+      referencia:
+        'SENA. (2024). Materiales de formación en piscicultura y acuicultura. Servicio Nacional de Aprendizaje.',
+      link: '',
+    },
+    {
+      referencia:
+        'Solla S.A. (2024). Guía técnica de nutrición y alimentación para peces. Solla S.A.',
+      link: '',
+    },
+    {
+      referencia:
+        'Universidad de los Llanos. (2023). Manual técnico de piscicultura continental. Instituto de Acuicultura de los Llanos.',
       link: '',
     },
   ],
@@ -333,60 +434,107 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable ecosistema virtual de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de línea de producción Huila',
+          cargo: 'Responsable de Línea de Producción Huila',
           centro: 'Dirección General',
         },
       ],
     },
+
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Andrea Tello Zambrano',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Juan José Calderon Gutiérrez',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: 'Desarrollador <i>full stack</i>',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
+          cargo: 'Desarrollador fullstack',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
