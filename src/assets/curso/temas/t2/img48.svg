@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="118" viewBox="0 0 118 118">
+  <defs>
+    <filter id="Rectangle_411831" x="0" y="0" width="118" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_425239" data-name="Rectangle 425239" width="79" height="78" transform="translate(288.051 2823)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1206077" data-name="Group 1206077" transform="translate(-268.897 -2805.555)">
+    <g id="Group_1203409" data-name="Group 1203409" transform="translate(-57.884 -1046.445)">
+      <g transform="matrix(1, 0, 0, 1, 326.78, 3852)" filter="url(#Rectangle_411831)">
+        <g id="Rectangle_411831-2" data-name="Rectangle 411831" transform="translate(9 6)" fill="#a9cbf1" stroke="#fff" stroke-width="2">
+          <path d="M5,0H68a32,32,0,0,1,32,32V95a5,5,0,0,1-5,5H32A32,32,0,0,1,0,68V5A5,5,0,0,1,5,0Z" stroke="none"/>
+          <path d="M5,1H68A31,31,0,0,1,99,32V95a4,4,0,0,1-4,4H32A31,31,0,0,1,1,68V5A4,4,0,0,1,5,1Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_1108098" data-name="Mask Group 1108098" clip-path="url(#clip-path)">
+      <g id="_004---Oil-Dropper" data-name="004---Oil-Dropper" transform="translate(305.451 2823)">
+        <g id="Icons" transform="translate(1.3 1.3)">
+          <path id="Shape" d="M41.6,36.4V70.2a5.2,5.2,0,0,1-5.2,5.2H5.2A5.2,5.2,0,0,1,0,70.2V36.4a5.207,5.207,0,0,1,2.73-4.576A6.808,6.808,0,0,1,6.5,31.2,5.2,5.2,0,0,0,11.7,26V24.7H29.9V26a5.217,5.217,0,0,0,3.822,5.018A9.23,9.23,0,0,0,36.4,31.2,5.2,5.2,0,0,1,41.6,36.4Z" fill="#283593"/>
+          <path id="Shape-2" data-name="Shape" d="M37.7,36.4V70.2a5.2,5.2,0,0,1-5.2,5.2H5.2A5.2,5.2,0,0,1,0,70.2V36.4a5.207,5.207,0,0,1,2.73-4.576A6.808,6.808,0,0,1,6.5,31.2,5.2,5.2,0,0,0,11.7,26V24.7H26V26a5.2,5.2,0,0,0,5.2,5.2h1.4A5.2,5.2,0,0,1,37.7,36.4Z" fill="#3f51b5"/>
+          <path id="Shape-3" data-name="Shape" d="M16.9,51.7A29.388,29.388,0,0,0,5.2,53.3V68.9a1.3,1.3,0,0,0,1.3,1.3H35.1a1.3,1.3,0,0,0,1.3-1.3V52C31.505,54.448,28.691,53.529,16.9,51.7Z" fill="#60a917"/>
+          <path id="Shape-4" data-name="Shape" d="M24.287,57.346l-1.829,6.4a1.725,1.725,0,0,1-3.315,0l-1.829-6.4c-.581-2.031-.413-.666-.413-32.646h7.8C24.7,56.9,24.86,55.34,24.287,57.346Z" fill="#a4c400"/>
+          <path id="Shape-5" data-name="Shape" d="M27.3,6.5V13h-13V6.5a6.5,6.5,0,0,1,13,0Z" fill="#549414"/>
+          <path id="Shape-6" data-name="Shape" d="M23.4,6.5V13H14.3V6.5A6.517,6.517,0,0,1,18.85.286,6.518,6.518,0,0,1,23.4,6.5Z" fill="#60a917"/>
+          <rect id="Rectangle-path" width="23.4" height="11.7" rx="1.3" transform="translate(9.1 13)" fill="#00695c"/>
+          <rect id="Rectangle-path-2" data-name="Rectangle-path" width="19.5" height="11.7" rx="1.3" transform="translate(9.1 13)" fill="#009688"/>
+        </g>
+        <path id="Shape-7" data-name="Shape" d="M6.5,78H37.7a6.508,6.508,0,0,0,6.5-6.5V37.7a6.508,6.508,0,0,0-6.5-6.5H36.4a3.9,3.9,0,0,1-3.9-3.9,2.6,2.6,0,0,0,2.6-2.6V15.6A2.6,2.6,0,0,0,32.5,13H29.9V7.8a7.8,7.8,0,0,0-15.6,0V13H11.7a2.6,2.6,0,0,0-2.6,2.6v9.1a2.6,2.6,0,0,0,2.6,2.6,3.9,3.9,0,0,1-3.9,3.9H6.5A6.508,6.508,0,0,0,0,37.7V71.5A6.508,6.508,0,0,0,6.5,78ZM16.9,7.8a5.2,5.2,0,1,1,10.4,0V13H16.9Zm-5.2,7.8H32.5v9.1H28.6V19.5a1.3,1.3,0,1,0-2.6,0v5.2H23.4V19.5a1.3,1.3,0,1,0-2.6,0v5.2H18.2V19.5a1.3,1.3,0,1,0-2.6,0v5.2H11.7Zm7.493,49.807a3.026,3.026,0,0,0,5.814,0c1.934-6.766,2.283-7.527,2.291-9.669a17.7,17.7,0,0,0,9.1-.469V70.2H7.8V55.527a29.5,29.5,0,0,1,9.1-1.27C16.9,58.032,16.806,57.056,19.193,65.407ZM19.5,27.3h5.2V55.7c0,1.764-.268,2.284-2.193,9a.441.441,0,0,1-.814,0l-1.83-6.405c-.517-1.815-.363-.42-.363-30.988ZM2.6,37.7a3.9,3.9,0,0,1,3.9-3.9H7.8a6.508,6.508,0,0,0,6.5-6.5h2.6V51.645A30.237,30.237,0,0,0,6.018,53.392,1.3,1.3,0,0,0,5.2,54.6V70.2a2.6,2.6,0,0,0,2.6,2.6H36.4A2.6,2.6,0,0,0,39,70.2V53.3a1.3,1.3,0,0,0-1.881-1.17c-3.12,1.56-5.687,1.608-9.819.965V27.3h2.6a6.508,6.508,0,0,0,6.5,6.5h1.3a3.9,3.9,0,0,1,3.9,3.9V71.5a3.9,3.9,0,0,1-3.9,3.9H6.5a3.9,3.9,0,0,1-3.9-3.9Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
