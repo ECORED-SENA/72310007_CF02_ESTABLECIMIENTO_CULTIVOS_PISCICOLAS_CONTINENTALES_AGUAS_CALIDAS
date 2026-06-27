@@ -301,7 +301,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/72310007_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -474,7 +474,7 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Cielo Damaris Angulo Rodríguez',
+          nombre: 'Cristian Fernando Martínez Sánchez',
           cargo: 'Desarrollador fullstack',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
