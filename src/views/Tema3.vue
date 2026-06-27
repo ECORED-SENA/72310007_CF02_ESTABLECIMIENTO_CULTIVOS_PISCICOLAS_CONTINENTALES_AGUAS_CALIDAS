@@ -224,7 +224,7 @@
             img(src='@/assets/curso/temas/t3/img20.png', alt='').m-auto
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/cHX-wSh0pwA?si=W_ED8n6iUoZShBdy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption #[b Video]. Prevención y enfermedades en acuicultura
       Separador
       #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")

@@ -474,7 +474,7 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Cristian Fernando Martínez Sánchez',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
           cargo: 'Desarrollador fullstack',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
