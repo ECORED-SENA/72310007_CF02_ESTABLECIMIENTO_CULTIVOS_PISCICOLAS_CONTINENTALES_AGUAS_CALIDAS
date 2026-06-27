@@ -363,7 +363,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Mantener buena ventilación
-                  p.mb-0 Favorecer la circulación del aire y disminuir acumulación de calor y humedad dentro de la bodega.
+                  p.mb-0 Favorecer la circulación del aire y disminuir la acumulación de calor y humedad dentro de la bodega.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t6/img31.png', alt='' style="max-width: 500px").m-auto

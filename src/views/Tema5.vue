@@ -140,7 +140,7 @@
                   span.fa-li
                     i.fas.fa-check-circle
                   | #[b Tarde:] 3:00 p. m. – 4:00 p. m. 
-              p En sistemas extensivos y semiintensivos, el alimento no debe permanecer flotando más de 15 minutos. En sistemas intensivos, el tiempo ideal de consumo se encuentra entre 1 y 1.5 minutos.  El monitoreo del tiempo de consumo permite ajustar las raciones y evitar acumulación de materia orgánica en el estanque.
+              p En sistemas extensivos y semiintensivos, el alimento no debe permanecer flotando más de 15 minutos. En sistemas intensivos, el tiempo ideal de consumo se encuentra entre 1 y 1.5 minutos.  El monitoreo del tiempo de consumo permite ajustar las raciones y evitar la acumulación de materia orgánica en el estanque.
       Separador
       #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 5.3 Tipo de concentrado según etapa del pez
@@ -377,7 +377,7 @@
             h5 Fórmula básica
             p La cantidad diaria de alimento puede calcularse mediante la siguiente expresión:
             p #[b Cantidad diaria de alimento = (Número de peces vivos) × (Consumo según tabla)]
-            p.mb-0 La aplicación correcta de esta fórmula permite ajustar las raciones de acuerdo con el crecimiento y supervivencia de los peces.
+            p.mb-0 La aplicación correcta de esta fórmula permite ajustar las raciones de acuerdo con el crecimiento y lasupervivencia de los peces.
       .caja-7.mb-0(data-aos="zoom-in")
         h5 Ejemplo práctico
         p En un estanque se sembraron 150 tilapias y actualmente sobreviven 140 peces. El peso promedio es de 260 gramos y la temperatura del agua es de 30 °C. Según la tabla alimenticia:

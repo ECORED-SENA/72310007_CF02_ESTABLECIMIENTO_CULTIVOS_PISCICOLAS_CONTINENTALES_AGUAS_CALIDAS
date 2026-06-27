@@ -282,7 +282,7 @@
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
               h4.txt--purpura.mb-4 Excreción
               p.mb-0 Es el proceso mediante el cual el organismo elimina sustancias de desecho y nutrientes no aprovechados. Este proceso ayuda a mantener el equilibrio fisiológico y evita la acumulación excesiva de residuos en el organismo y en el agua del cultivo. Un adecuado manejo alimenticio contribuye a disminuir la contaminación y mejorar la sostenibilidad del sistema piscícola.
-      p.mb-5 A continuación, se presenta los principales factores relacionados con la ingestión y las funciones metabólicas de los peces, destacando su importancia dentro de los procesos nutricionales y productivos en piscicultura.
+      p.mb-5 A continuación, se presentan los principales factores relacionados con la ingestión y las funciones metabólicas de los peces, destacando su importancia dentro de los procesos nutricionales y productivos en piscicultura.
       .bg-slider.mb-0
         .px-5
           .ajuste-slider(data-aos="zoom-in")
@@ -592,7 +592,7 @@
                 img(src='@/assets/curso/temas/t4/img50.png', alt="" ).m-auto
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
               h4.txt--purpura.mb-4 Temperatura del agua
-              p.mb-0 La temperatura influye directamente sobre el metabolismo y apetito de los peces. En temperaturas adecuadas, el consumo aumenta; mientras que temperaturas bajas o extremas reducen la actividad alimenticia.
+              p.mb-0 La temperatura influye directamente sobre el metabolismo y el apetito de los peces. En temperaturas adecuadas, el consumo aumenta; mientras que temperaturas bajas o extremas reducen la actividad alimenticia.
         .py-3.py-md-4(titulo="Calidad del agua")
           .row.justify-content-center.align-items-center
             .col-xl-5.order-2.order-lg-1

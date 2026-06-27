@@ -314,7 +314,7 @@
                 .col-8
                   img(src='@/assets/curso/temas/t2/img21.svg' style="max-width: 90px").m-auto
               h4.mb-3.estilo-text Capacidad de oxigenación
-              p.mb-0.text-center Influye sobre la cantidad de peces que puede soportar el sistema.
+              p.mb-0.text-center Influye en la cantidad de peces que puede soportar el sistema.
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8
@@ -592,27 +592,27 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t2/img48.svg' style="max-width: 90px").m-auto
-          p.mb-0.text-center Verde de malaquita. 
+          p.mb-0.text-center Verde de malaquita
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t2/img49.svg' style="max-width: 90px").m-auto
-          p.mb-0.text-center Formol. 
+          p.mb-0.text-center Formol
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t2/img50.svg' style="max-width: 90px").m-auto
-          p.mb-0.text-center Sulfato de cobre. 
+          p.mb-0.text-center Sulfato de cobre 
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t2/img51.svg' style="max-width: 90px").m-auto
-          p.mb-0.text-center Amonio cuaternario. 
+          p.mb-0.text-center Amonio cuaternario 
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/t2/img52.svg' style="max-width: 90px").m-auto
-          p.mb-0.text-center Sal común. 
+          p.mb-0.text-center Sal común
       p La utilización de estos productos debe realizarse bajo supervisión técnica especializada. El manejo integral del cultivo piscícola requiere la aplicación de buenas prácticas técnicas, sanitarias y administrativas orientadas a garantizar el bienestar de los peces y la eficiencia productiva del sistema.
       p.mb-0 Actividades como la fertilización del estanque, la correcta siembra de alevinos, el monitoreo de la calidad del agua, la programación de labores y el manejo de registros permiten optimizar el crecimiento de los peces, prevenir enfermedades y mejorar la sostenibilidad y rentabilidad de la producción acuícola.
 
