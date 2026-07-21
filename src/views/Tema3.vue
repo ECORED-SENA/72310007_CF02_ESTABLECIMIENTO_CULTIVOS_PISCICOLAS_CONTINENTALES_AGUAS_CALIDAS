@@ -284,7 +284,7 @@
                 i.fas.fa-check-circle
               | 
               p.mb-0 Realizar un transporte adecuado. 
-      p.mb-0 La aplicación constante de estas estrategias favorece el bienestar animal, mejora el desempeño productivo y reduce la aparición de enfermedades en los sistemas de cultivo
+      p.mb-0 La aplicación constante de estas estrategias favorece el bienestar animal, mejora el desempeño productivo y reduce la aparición de enfermedades en los sistemas de cultivo.
       Separador
       #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.5 Manejo adecuado de la densidad poblacional

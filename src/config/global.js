@@ -301,7 +301,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/72310007_CF02_DU.pdf',
+        download: 'downloads/72310007_CF02_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -399,11 +399,6 @@ export default {
     },
     {
       referencia:
-        'AUNAP. (2024). Lineamientos técnicos para la producción acuícola sostenible en Colombia. Autoridad Nacional de Acuicultura y Pesca.',
-      link: '',
-    },
-    {
-      referencia:
         'FAO. (2024). Nutritional requirements of Nile tilapia (Oreochromis niloticus). Food and Agriculture Organization of the United Nations.',
       link: '',
     },
@@ -440,7 +435,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
@@ -451,7 +446,7 @@ export default {
       autores: [
         {
           nombre: 'Paola Andrea Tello Zambrano',
-          cargo: 'Experto temático',
+          cargo: 'Experta temática',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -475,7 +470,7 @@ export default {
         },
         {
           nombre: 'Cristian Fernando Martínez Sánchez',
-          cargo: 'Desarrollador fullstack',
+          cargo: 'Desarrollador <i>fullstack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

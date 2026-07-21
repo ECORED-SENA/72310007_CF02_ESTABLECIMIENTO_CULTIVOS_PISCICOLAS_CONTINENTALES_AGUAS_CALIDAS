@@ -22,7 +22,7 @@ export default {
       tema: 'Buenas Prácticas Piscícolas y manejo sanitario en cultivos de aguas cálidas',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Identificar los conceptos clave relacionados con el manejo técnico, sanitario, nutricional y productivo en piscicultura de aguas cálidas.',
+        '<b>Objetivo:</b> identificar los conceptos clave relacionados con el manejo técnico, sanitario, nutricional y productivo en piscicultura de aguas cálidas.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -103,7 +103,8 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Reducir acumulaciones que deterioran la calidad del agua.',
+              texto:
+                'Reducir acumulaciones que deterioran la calidad del agua.',
               esCorrecta: true,
             },
             {
@@ -246,8 +247,7 @@ export default {
         },
         {
           id: 8,
-          texto:
-            '¿Cuál es una labor diaria en la empresa piscícola?',
+          texto: '¿Cuál es una labor diaria en la empresa piscícola?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
@@ -413,7 +413,8 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Reducir acumulaciones que deterioran la calidad del agua.',
+              texto:
+                'Reducir acumulaciones que deterioran la calidad del agua.',
               esCorrecta: true,
             },
             {
@@ -556,8 +557,7 @@ export default {
         },
         {
           id: 8,
-          texto:
-            '¿Cuál es una labor diaria en la empresa piscícola?',
+          texto: '¿Cuál es una labor diaria en la empresa piscícola?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [

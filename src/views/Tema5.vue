@@ -377,7 +377,7 @@
             h5 Fórmula básica
             p La cantidad diaria de alimento puede calcularse mediante la siguiente expresión:
             p #[b Cantidad diaria de alimento = (Número de peces vivos) × (Consumo según tabla)]
-            p.mb-0 La aplicación correcta de esta fórmula permite ajustar las raciones de acuerdo con el crecimiento y lasupervivencia de los peces.
+            p.mb-0 La aplicación correcta de esta fórmula permite ajustar las raciones de acuerdo con el crecimiento y la supervivencia de los peces.
       .caja-7.mb-0(data-aos="zoom-in")
         h5 Ejemplo práctico
         p En un estanque se sembraron 150 tilapias y actualmente sobreviven 140 peces. El peso promedio es de 260 gramos y la temperatura del agua es de 30 °C. Según la tabla alimenticia:

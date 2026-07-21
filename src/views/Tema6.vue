@@ -431,13 +431,13 @@
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src='@/assets/curso/temas/t6/img36.svg' style="max-width: 90px").m-auto
+                  img(src='@/assets/curso/temas/t6/img37.svg' style="max-width: 90px").m-auto
               h4.mb-3.estilo-text Moscas
               p.mb-0.text-center Transmisión de microorganismos y contaminación sanitaria.
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8
-                  img(src='@/assets/curso/temas/t6/img37.svg' style="max-width: 90px").m-auto
+                  img(src='@/assets/curso/temas/t6/img36.svg' style="max-width: 90px").m-auto
               h4.mb-3.estilo-text Cucarachas
               p.mb-0.text-center Contaminación biológica y deterioro del alimento.
           p.mb-5 Las medidas de control deben aplicarse de manera permanente para mantener condiciones sanitarias adecuadas.
@@ -571,9 +571,9 @@
               img(src='@/assets/curso/temas/t6/img43.svg', alt='' style="max-width: 85px").m-auto
           .col-xl.mb-4.mb-lg-0
             h4 Control productivo
-            p.mb-0 Se invita a leer el documento #[b Anexo_Control productivo], donde se aborda el control productivo en piscicultura y las actividades necesarias para el seguimiento, evaluación y mejoramiento de los sistemas de cultivo acuícola.
+            p.mb-0 Se invita a leer el documento #[b Control productivo], donde se aborda el control productivo en piscicultura y las actividades necesarias para el seguimiento, evaluación y mejoramiento de los sistemas de cultivo acuícola.
           .col-xl-2
-            a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_Control productivo.pdf')" target="_blank" type="application/pdf")
+            a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_control_productivo.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-file-download
 
