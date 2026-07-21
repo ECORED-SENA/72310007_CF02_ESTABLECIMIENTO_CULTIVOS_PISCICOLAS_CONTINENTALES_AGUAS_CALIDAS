@@ -229,7 +229,7 @@
       Separador
       #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.4 Control de factores de estrés
-      p.mb-5 El estrés es uno de los principales factores que afectan el bienestar, crecimiento y supervivencia de los peces. Cuando los organismos son sometidos a condiciones inadecuadas, disminuye su capacidad inmunológica y aumenta la susceptibilidad a enfermedades.Por esta razón, es fundamental controlar todos aquellos factores que puedan alterar el equilibrio fisiológico de los peces dentro del sistema de cultivo.
+      p.mb-5 El estrés es uno de los principales factores que afectan el bienestar, crecimiento y supervivencia de los peces. Cuando los organismos son sometidos a condiciones inadecuadas, disminuye su capacidad inmunológica y aumenta la susceptibilidad a enfermedades. Por esta razón, es fundamental controlar todos aquellos factores que puedan alterar el equilibrio fisiológico de los peces dentro del sistema de cultivo.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t2/img4.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Principales factores de estrés
